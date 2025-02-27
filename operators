@@ -1,0 +1,19 @@
+    a = int(input())
+    b = int(input())
+    sum = a+b
+    print(sum)
+    difference = a-b
+    print(difference)
+    product = a*b
+    print(product)
+********************************
+Sample Input 0
+
+3
+2
+Sample Output 0
+
+5
+1
+6
+********************************
